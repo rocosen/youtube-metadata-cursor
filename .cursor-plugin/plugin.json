@@ -1,0 +1,22 @@
+{
+  "name": "youtube-metadata-flashdata",
+  "displayName": "YouTube Metadata — FlashData",
+  "version": "0.1.1",
+  "description": "Read YouTube video details, descriptions, statistics and available chapters. Inspect formats or prepare timestamped chapter navigation. Uses the paid FlashData API.",
+  "author": {
+    "name": "FlashData",
+    "email": "support@flashdata.dev"
+  },
+  "homepage": "https://flashdata.dev/docs/sources/youtube_metadata?utm_source=cursor-directory&utm_medium=integration&utm_campaign=intent_gtm_2026q4&utm_content=youtube_metadata-task",
+  "repository": "https://github.com/rocosen/youtube-metadata-cursor",
+  "license": "MIT",
+  "keywords": [
+    "youtube-metadata",
+    "youtube-video-chapters",
+    "mcp",
+    "model-context-protocol",
+    "flashdata",
+    "cursor"
+  ],
+  "logo": "assets/logo.svg"
+}
